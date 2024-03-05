@@ -2,8 +2,10 @@
 title: "About"
 ---
 
-About this site
+About this site and the author:
 
-```{r}
-1 + 1
-```
+Sophie is a Senior Biology Major with Minors in Psychology & Spanish and is pursuing a Letter of Specialization in Developmental Disabilities & Human Services. Upon graduation, Sophie hopes to earn her PhD in School Psychology, and subsequently become a school and clinical psychologist. Sophie is interested in working with autistic children and their families, in both diagnostic and therapeutic aspects.
+
+While Sophie does not particularly enjoy plant biology, she is a proud plant mom. Below is a picture of some potted plants.
+
+![](images/istockphoto-1303363400-612x612.jpg){fig-align="center"}

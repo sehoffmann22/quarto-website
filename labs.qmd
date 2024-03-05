@@ -1,0 +1,7 @@
+---
+title: "Labs"
+---
+
+This is the Labs Section for Sophie's EvoGeno Course !
+
+![](images/istockphoto-1270372030-612x612.jpg){fig-align="center"}
