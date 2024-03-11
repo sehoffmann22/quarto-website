@@ -1,7 +1,8 @@
 {
-  "hash": "a754ce02c0472c0b163d8ffb898e69ac",
+  "hash": "dd0903aecc96136b3901e7b35bf2282d",
   "result": {
-    "markdown": "---\ntitle: \"About\"\n---\n\n\nAbout this site\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"About\"\n---\n\n\nAbout this site and the author:\n\nSophie is a Senior Biology Major with Minors in Psychology & Spanish and is pursuing a Letter of Specialization in Developmental Disabilities & Human Services. Upon graduation, Sophie hopes to earn her PhD in School Psychology, and subsequently become a school and clinical psychologist. Sophie is interested in working with autistic children and their families, in both diagnostic and therapeutic aspects.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"
